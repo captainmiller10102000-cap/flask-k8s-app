@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: flask-k8s-app
-        image: thani/flask-k8s-app:latest
+        image: thaniggaivelan/flask-k8s-app:latest
         imagePullPolicy: Always
 
         ports:
